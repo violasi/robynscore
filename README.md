@@ -1,3 +1,9 @@
+This package is develped based on Facebook Robyn, for:
+1. marginal ROI calcullation for a specified time range
+2. marginal ROI curve creation
+3. budget allocaion (for both unchanged total spend and a set target)
+
+
 # Import needed library
 ```
 library(robynscore)
